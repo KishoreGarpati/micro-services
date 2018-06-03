@@ -1,0 +1,13 @@
+NoSQL DB (Mongo in cloud)
+SQL DB (MySQL/Postgres)
+ORM (Spring Data with JPA and MongoDB)
+Caching (Redis/Ehcahce)
+Mailing (SMTP setup and Spring mail)
+Websockets for Messaging (Spring WebSockets)
+Reactive Web (Spring web)
+Scheduling frameworks(Quartz)
+Integration with Google, facebook, Twitter or Linkedin
+Frontend (Angular2, HTML5, CSS, Material Design, Bootstrap)
+Mobile (Android and iOS)
+Deployments (Docker, Kubernetes, Jenkins)
+Tracking (Jira)
